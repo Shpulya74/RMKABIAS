@@ -6,7 +6,7 @@
 
 Программа была успешно установлена. Был создан проект Lesson1. Далее был создан и запущен эмулятор.
 
-    ![запущенный_эмулятор](pic1.png)
+    ![запущенный_эмулятор](https://github.com/Shpulya74/RMKABIAS/blob/pr_1/Android%20Studio%20Projects/pic1.png?raw=true)
 
 ### Запуск приложения
 
