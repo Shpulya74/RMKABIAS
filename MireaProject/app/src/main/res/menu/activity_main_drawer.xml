@@ -36,5 +36,13 @@
             android:id="@+id/audioFragment"
             android:icon="@drawable/ic_menu_gallery"
             android:title="@string/menu_audio" />
+        <item
+            android:id="@+id/profileFragment"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/menu_profile" />
+        <item
+            android:id="@+id/fileWork"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/menu_filework" />
     </group>
 </menu>
