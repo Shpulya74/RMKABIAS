@@ -57,6 +57,11 @@
         android:name="ru.mirea.pospelovauv.mireaproject.fileWork"
         android:label="fragment_file_work"
         tools:layout="@layout/fragment_file_work" />
+    <fragment
+        android:id="@+id/network"
+        android:name="ru.mirea.pospelovauv.mireaproject.Network"
+        android:label="fragment_network"
+        tools:layout="@layout/fragment_network" />
 
 
 </navigation>
